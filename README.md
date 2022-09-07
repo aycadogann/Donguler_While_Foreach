@@ -1,2 +1,2 @@
 # Donguler_While_Foreach
-Döngü alıştırmaları yapıldı
+Bu bir [patika.dev](https://www.patika.dev/tr) projesidir.

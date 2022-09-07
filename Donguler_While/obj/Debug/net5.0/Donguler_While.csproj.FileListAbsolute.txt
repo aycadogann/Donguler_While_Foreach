@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\bin\Debug\net5.0\Donguler_While.exe
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\bin\Debug\net5.0\Donguler_While.deps.json
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\bin\Debug\net5.0\Donguler_While.runtimeconfig.json
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\bin\Debug\net5.0\Donguler_While.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\bin\Debug\net5.0\Donguler_While.dll
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\bin\Debug\net5.0\Donguler_While.pdb
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\Donguler_While.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\Donguler_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\Donguler_While.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\Donguler_While.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\Donguler_While.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\Donguler_While.dll
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\refint\Donguler_While.dll
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\Donguler_While.pdb
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\Donguler_While.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Pratikler\Donguler_While\obj\Debug\net5.0\ref\Donguler_While.dll
